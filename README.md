@@ -1,2 +1,4 @@
 # Product-Listing
-A product listing project for Modern Developer
+A product listing page project for Modern Developer
+
+http://mxio.github.io/Product-Listing/
