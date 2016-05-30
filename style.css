@@ -78,6 +78,14 @@ a {
 	margin-top: 10px;
 }
 
+.shop:hover {
+	background-color: #C5E3E8;
+}
+
+.shop:active {
+	background-color: #DE5F5A;
+}
+
 .add {
 	margin-top: 1px;
 	float: right;
